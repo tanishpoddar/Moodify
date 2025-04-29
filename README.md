@@ -21,7 +21,7 @@ A smart music recommendation system that understands your emotions and creates t
 - ** Dynamic Updates**: Real-time playlist generation
 - ** Smart Recommendations**: AI-powered music suggestions
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -58,20 +58,20 @@ yarn dev
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser
 
-## 🛠️ Built With
+## Built With
 
 - [Next.js](https://nextjs.org/) - The React framework for production
 - [TypeScript](https://www.typescriptlang.org/) - For type-safe code
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling
 - [Vercel](https://vercel.com) - For deployment
 
-## 📖 How It Works
+## How It Works
 
 1. **Input Your Mood**: Describe how you're feeling in natural language
 2. **Select Genres**: Choose your preferred music genres
 3. **Get Recommendations**: Receive a curated playlist matching your mood
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -81,6 +81,6 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is open source and available under the [GNU General Public License v3.0](LICENSE).
