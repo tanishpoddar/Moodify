@@ -12,14 +12,14 @@ A smart music recommendation system that understands your emotions and creates t
 
 </div>
 
-## 🌟 Features
+## Features
 
-- **🎭 Mood Analysis**: Advanced mood interpretation from text descriptions
-- **🎵 Genre Customization**: Fine-tune recommendations with your preferred genres
-- **🎨 Modern UI/UX**: Clean and intuitive interface built with Next.js
-- **📱 Responsive Design**: Seamless experience across all devices
-- **🔄 Dynamic Updates**: Real-time playlist generation
-- **🎯 Smart Recommendations**: AI-powered music suggestions
+- ** Mood Analysis**: Advanced mood interpretation from text descriptions
+- ** Genre Customization**: Fine-tune recommendations with your preferred genres
+- ** Modern UI/UX**: Clean and intuitive interface built with Next.js
+- ** Responsive Design**: Seamless experience across all devices
+- ** Dynamic Updates**: Real-time playlist generation
+- ** Smart Recommendations**: AI-powered music suggestions
 
 ## 🚀 Getting Started
 
