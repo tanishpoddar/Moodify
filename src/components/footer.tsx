@@ -10,11 +10,11 @@ export function Footer() {
       <div className="flex flex-col sm:flex-row justify-center items-center gap-4 mb-2">
         <Link href="https://github.com/tanishpoddar/Moodify" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-primary transition-colors">
           <Github size={16} /> GitHub Repo
-        </Link>
+        <https://github.com/tanishpoddar/Moodify>
         <span>|</span>
         <span>Copyright Reserved © {currentYear}</span>
       </div>
-      <p>Made with ❤️ by Tanish, Prabhav, Asmi & Kavya</p>
+      <p>Made with ❤️ by Tanish</p>
     </footer>
   );
 }
